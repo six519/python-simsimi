@@ -1,3 +1,5 @@
+.. image:: http://developer.simsimi.com/static/img/logo/api0002.png
+
 GET YOUR KEY AT
 --------------
 http://developer.simsimi.com/signUp
