@@ -7,6 +7,7 @@ HOW TO INSTALL
 --------------
 To install run ``pip install python_simsimi`` or ``easy_install python_simsimi``.
 
+
 HOW TO USE
 ------------
 ::
